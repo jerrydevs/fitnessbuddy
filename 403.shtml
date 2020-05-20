@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<meta name-"description" content="Professional web design">
+		<meta name="keywords" content="web design, professional web design, start-up design">
+		<meta name="author" content="Jaelend Setosta">
+
+		<title>404 - Page Not Found</title>
+		<link rel="stylesheet" href="./css/style.css">
+	</head>
+
+	<body>
+    <header>
+      <link rel="stylesheet" href="./css/style.css">
+    
+      <div class="container">
+        <div id="branding"> 
+          <div id='svg'>
+            <img 
+                src="images/svg.svg"
+                alt="lotus"
+                height="100px"
+                width="100px"
+              />
+           </div>
+        </div>
+    
+        <nav>
+          <ul> 
+            <li class="current"><a href="login.php">Login</a> </li>
+            <li><a href="signup.php">Register</a> </li>
+            <li><a href="index.php">Home</a> </li>
+            <li><a href="contact.php">Contact Us </a> </li>
+          </ul>
+        </nav>
+    
+      </div>
+    </header>
+	
+    <h1>You're not really supposed to be here.</h2>
+    <p>Please turn back.</p>
+
+    
+	</body>
+</html>
